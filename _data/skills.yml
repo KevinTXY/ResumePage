@@ -1,9 +1,10 @@
 # Skills
-- skill: Python
+- skill: Programming Languages
+  description: Highly skilled at programming in Python, C and Java. Also knowledgable with C++, C#, Lua, Javascript, and other languages.
 # Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+- skill: Leadership
+  description: Holds several student organization leadership positions at Purdue.
 
 # Leadership
-- skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+- skill: Public Speaking and Communication
+  description: Adept at technical presentations, holds several communications roles among Purdue organizations.
