@@ -1,15 +1,15 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Atlants's ConnectHome
-  role: Volunteer
-  year: 2016 &mdash; Present
-  url: http://connecthome.atlantaga.gov/
-  summary: Developed and delivered a Git and GitHub training for secondary education students that created a resume that could use after finishing school.
+- organization: Purdue Hackers
+  role: Communications Manager
+  year: 2018 &mdash; Present
+  url: https://purduehackers.com/
+  summary: Organizing events with and managing social media for Purdue Hackers, Purdue's largest computer science student organization.
 
 
-- organization: freeCodeCamp
-  role: Contributor
-  year: 2015 &mdash; Present
-  url: https://www.freecodecamp.org/
-  summary: Contributor to the Git, GraphQL, and CSS content found in the freeCodeCamp curriculum.
+- organization: Hello World
+  role: Director of Communications
+  year: 2018 &mdash; Present
+  url: https://hello-world-2k17.devpost.com/
+  summary: Handling communications for Hello World, an introductory focused hackathon run by Purdue Hackers.
