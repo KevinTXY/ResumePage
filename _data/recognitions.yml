@@ -1,10 +1,15 @@
 # Recognitions
-- award: Speaker at GitHub Universe
-  organization: GitHub
-  year: 2016
-  summary: Chosen to speak at GitHub Universe on Open Source in Underrepresented Communities
+- award: Presidential Scholar
+  organization: Purdue University
+  year: 2017
+  summary: Chosen as Presidential Scholar and Illinois State Scholar
 
-- award: Dean's List
-  organization: University of South Florida
-  year: 2014
-  summary: Awarded the Dean's List after graduating with a cumulative 3.60 GPA.
+- award: Dean's List & Semester Honors
+  organization: Purdue University
+  year: 2017-2018
+  summary: Consistently awarded Dean's List
+  
+- award: Best Android Application
+  organization: Hello World
+  year: 2017
+  summary: Developed a winning project as Hello World, Purdue's freshman hackathon.
