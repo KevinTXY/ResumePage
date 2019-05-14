@@ -1,3 +1,9 @@
-This branch contains the revamp of the personal website started in May 2019.
+# Branches:
 
-This project was started to learn advanced frameworks such as React. 
+## Master:
+
+The master branch is hosting my currently live website - which for now is a temporary, terminal style page.
+
+## New: 
+
+The new branch will contain all code for the in-development site. 
